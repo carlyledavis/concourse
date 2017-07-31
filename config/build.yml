@@ -3,7 +3,7 @@ platform: linux
 
 image_resource:
   type: docker-image
-  source: {repository: lwieske/java-8}
+  source: {repository: starkandwayne/concourse-java}
 
 inputs:
   - name: source-code
