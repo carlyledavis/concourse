@@ -3,4 +3,4 @@ set -e
 export TERM=dumb
 
 cd source-code
-gradle build
+gradle test

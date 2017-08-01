@@ -9,4 +9,4 @@ inputs:
   - name: source-code
 
 run:
-  path: source-code/config/unit-test.sh
+  path: source-code/config/unit_test.sh
