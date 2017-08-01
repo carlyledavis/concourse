@@ -12,3 +12,5 @@ jobs:
     trigger: true
   - task: build
     file: source-code/config/build.yml
+  - task: unit-test
+    file: source-code/config/unit-test.yml
